@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-aucun pre-requis
+aucun pre-requis et bim
 
 ```
 
